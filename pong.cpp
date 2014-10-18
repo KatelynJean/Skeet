@@ -32,9 +32,9 @@ float Point::yMax = 128.0;
 class Pong
 {
 public:
-	Pong();                          // set up the game
-	void advance();                  // advance the game by one move
-	void draw();                     // draw everything
+	Pong();                          // This is so lame!
+	void advance();                  // What is this for?
+	void draw();                     // AAAAHHHHH!!!!!
 	void move(int up, int down);     // move everything
 	void strike();                   // did we hit something?
 private:
